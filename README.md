@@ -1,1 +1,1 @@
-This is a silly personal project intended to be a recipe directory where I can experiment with different web page layouts and designs. The outline for this project is from The Odin Project: https://www.theodinproject.com/lessons/foundations-recipes.
+
